@@ -18,5 +18,5 @@ You can also write code directly to the F# interactive console that will run whe
 
 ## Try from a browser
 
-Go to [fsbolero.io](fsbolero.io) (using Mozilla Firefox gives the best performance).
+Go to [fsbolero.io](https://fsbolero.io/) (using Mozilla Firefox gives the best performance).
 This is a simple tool that runs completely in your browser to compile and run single file F# projects.
